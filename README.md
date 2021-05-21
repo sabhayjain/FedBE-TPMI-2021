@@ -1,4 +1,4 @@
-# FedBE-TPMI-2021
+# FedBE (Topics in Probabilistic Modeling and Inference 2021 Course Project)
 This is an implemention of FedBE algorithm proposed in [FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning](https://arxiv.org/abs/2009.01974)
 
 ## Getting Started
